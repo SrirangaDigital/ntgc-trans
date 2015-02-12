@@ -8578,13 +8578,13 @@
 			<entry type="artist">सपना मल्होत्रा, अरविन्द नन्दा, गोल्डी मल्होत्रा व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="16892-2c" type="" size="">
+			<entry id="16892-2" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="16893-2c" type="" size="">
+			<entry id="16893-2" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="16894-2c" type="" size="">
+			<entry id="16894-2" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="16895" type="" size="">
@@ -9626,7 +9626,7 @@
 			<entry id="547" type="02" size="">
 				<desc>पंजाबी नाटक</desc>
 			</entry>
-			<entry id="547/I" type="02" size="">
+			<entry id="547-1" type="02" size="">
 				<desc>पंजाबी नाटक</desc>
 			</entry>
 		</photo>
@@ -11543,7 +11543,7 @@
 			<entry id="1032" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1032/I" type="02" size="">
+			<entry id="1032-1" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -19642,10 +19642,10 @@
 			<entry id="9997" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="9997/I" type="" size="">
+			<entry id="9997-1" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="9997/II" type="" size="">
+			<entry id="9997-2" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 			<entry id="9998" type="" size="">
@@ -19672,10 +19672,10 @@
 			<entry id="10002" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="10002/I" type="" size="">
+			<entry id="10002-1" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="10002/II" type="" size="">
+			<entry id="10002-2" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 			<entry id="10003" type="" size="">
@@ -20180,7 +20180,7 @@
 			<entry id="948" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="947/I" type="" size="">
+			<entry id="947-1" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -29264,7 +29264,7 @@
 			<entry id="797" type="" size="">
 				<desc>पंचम वैदिक काल काव्य</desc>
 			</entry>
-			<entry id="2067/I" type="" size="">
+			<entry id="2067-1" type="" size="">
 				<desc>पंचम वैदिक काल काव्य</desc>
 			</entry>
 		</photo>
@@ -29355,7 +29355,7 @@
 			<entry id="9503" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7644/I" type="" size="">
+			<entry id="7644-1" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7645" type="" size="">
@@ -30097,10 +30097,10 @@
 			<entry type="artist">अरिजीत गुहा, रामप्रसाद बनिक तथा अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="8436/I" type="02" size="">
+			<entry id="8436-1" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
 			</entry>
-			<entry id="8436/II" type="02" size="">
+			<entry id="8436-2" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
 			</entry>
 			<entry id="8437" type="02" size="">
@@ -31269,7 +31269,7 @@
 			<entry type="artist">देबेन गांगूली, मुरारी चर्कवर्ती, छाया मंडल, अपूर्वा</entry>
 		</mdetails>
 		<photo>
-			<entry id="8433/I" type="02" size="नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो">
+			<entry id="8433-1" type="02" size="नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -31285,7 +31285,7 @@
 			<entry type="artist">ज्योति, मुरारी चक्रवर्ती, देवेन गांगुली वैद्यनाथ दुलाल</entry>
 		</mdetails>
 		<photo>
-			<entry id="8434/I" type="02" size="">
+			<entry id="8434-1" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 		</photo>
@@ -31301,10 +31301,10 @@
 			<entry type="artist">बादल सरकार तथा अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="8431/I" type="02" size="">
+			<entry id="8431-1" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
-			<entry id="8432/I" type="02" size="">
+			<entry id="8432-1" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 		</photo>
@@ -31320,7 +31320,7 @@
 			<entry type="artist">बादल सरकार</entry>
 		</mdetails>
 		<photo>
-			<entry id="8435/I" type="02" size="">
+			<entry id="8435-1" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 		</photo>
@@ -40708,7 +40708,7 @@
 			<entry id="10247" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10247/I" type="" size="">
+			<entry id="10247-1" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -53265,7 +53265,7 @@
 			<entry id="4395" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4395/I" type="" size="">
+			<entry id="4395-1" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
