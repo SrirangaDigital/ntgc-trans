@@ -14,8 +14,8 @@ def write_file(out, var):
 	f.close()
 
 
-DVDPhotos = read_file('photos.txt')
-XMLPhotos = read_file('photos_xml.txt')
+DVDPhotos = read_file('photo.txt')
+XMLPhotos = read_file('photo_xml.txt')
 
 dvd = Set(DVDPhotos)
 xml = Set(XMLPhotos)
