@@ -22,6 +22,9 @@ xml = Set(XMLPhotos)
 
 extras = dvd - xml
 needed = xml - dvd
+total = dvd & xml
 
 write_file('needed.txt', needed)
 write_file('extras.txt', extras)
+write_file('total.txt', total)
+
