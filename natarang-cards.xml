@@ -3582,10 +3582,10 @@
 			<entry id="141" type="" size="">
 				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट, नाटक की पूर्व सूचना स्मारिका परि. सं. 2185 से प्राप्त</desc>
 			</entry>
-			<entry id="142/144" type="" size="">
+			<entry id="142-144" type="" size=">
 				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट, नाटक की पूर्व सूचना स्मारिका परि. सं. 2185 से प्राप्त</desc>
 			</entry>
-			<entry id="144/142" type="" size="">
+			<entry id="144-142" type="" size=">
 				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट, नाटक की पूर्व सूचना स्मारिका परि. सं. 2185 से प्राप्त</desc>
 			</entry>
 			<entry id="143" type="" size="">
@@ -11013,10 +11013,10 @@
 			<entry id="7451" type="" size="">
 				<desc>नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
-			<entry id="7453/1" type="" size="">
+			<entry id="7453-1" type="" size=">
 				<desc>नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
-			<entry id="7452/2" type="" size="">
+			<entry id="7452-2" type="" size=">
 				<desc>नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
 			<entry id="7455" type="" size="">
@@ -13626,7 +13626,7 @@
 			<entry id="3027" type="02" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
 			</entry>
-			<entry id="3027/1" type="02" size="">
+			<entry id="3027-1" type="02" size=">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -16230,10 +16230,10 @@
 			<entry id="7451" type="" size="">
 				<desc>नुक्कड़ नाटक, नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
-			<entry id="7453/1" type="" size="">
+			<entry id="7453-1" type="" size=">
 				<desc>नुक्कड़ नाटक, नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
-			<entry id="7452/2" type="" size="">
+			<entry id="7452-2" type="" size=">
 				<desc>नुक्कड़ नाटक, नटरंग प्रतिष्ठान तथा राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पूर्वा फेस्टिवल में मंचित</desc>
 			</entry>
 			<entry id="7455" type="" size="">
@@ -19136,7 +19136,7 @@
 			<entry type="director">एन. के. शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="9154/1" type="01" size="">
+			<entry id="9154-1" type="01" size=">
 				<desc>नाट्य पाठ : एन. के. शर्मा के निर्देशन में एक्टवन नाट्यमण्डली द्वारा</desc>
 			</entry>
 			<entry id="9155" type="01" size="">
@@ -19651,7 +19651,7 @@
 			<entry id="9998" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="9998/1" type="" size="">
+			<entry id="9998-1" type="" size=">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 			<entry id="9999" type="" size="">
@@ -19660,13 +19660,13 @@
 			<entry id="10000" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="10000/1" type="" size="">
+			<entry id="10000-1" type="" size=">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 			<entry id="10001" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="10001/1" type="" size="">
+			<entry id="10001-1" type="" size=">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 			<entry id="10002" type="" size="">
@@ -19684,7 +19684,7 @@
 			<entry id="10004" type="" size="">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
-			<entry id="10004/1" type="" size="">
+			<entry id="10004-1" type="" size=">
 				<desc>पारम्परिक नाट्य</desc>
 			</entry>
 		</photo>
@@ -26621,7 +26621,7 @@
 			<entry id="9771" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन 6th भारत रंग महोत्सव में प्रदर्शित नाटक |</desc>
 			</entry>
-			<entry id="9771/1" type="01" size="">
+			<entry id="9771-1" type="01" size=">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन 6th भारत रंग महोत्सव में प्रदर्शित नाटक |</desc>
 			</entry>
 			<entry id="9772" type="01" size="">
@@ -27148,13 +27148,13 @@
 			<entry id="2744" type="" size="8X12.5">
 				<desc>`परस्पर' कार्यक्रम की ओर से `कमानी ऑडिटोरियम' में | अप्रैल `94' को प्रदर्शन प्रायोजक नटरंग प्रतिष्ठान [मनोहर सिंह द्वारा भेंट]</desc>
 			</entry>
-			<entry id="2744/2" type="" size="8X12.5">
+			<entry id="2744-2" type="" size="8X12.5>
 				<desc>`परस्पर' कार्यक्रम की ओर से `कमानी ऑडिटोरियम' में | अप्रैल `94' को प्रदर्शन प्रायोजक नटरंग प्रतिष्ठान [मनोहर सिंह द्वारा भेंट]</desc>
 			</entry>
-			<entry id="2744/3" type="" size="8X12.5">
+			<entry id="2744-3" type="" size="8X12.5>
 				<desc>`परस्पर' कार्यक्रम की ओर से `कमानी ऑडिटोरियम' में | अप्रैल `94' को प्रदर्शन प्रायोजक नटरंग प्रतिष्ठान [मनोहर सिंह द्वारा भेंट]</desc>
 			</entry>
-			<entry id="2744/4" type="" size="8X12.5">
+			<entry id="2744-4" type="" size="8X12.5>
 				<desc>`परस्पर' कार्यक्रम की ओर से `कमानी ऑडिटोरियम' में | अप्रैल `94' को प्रदर्शन प्रायोजक नटरंग प्रतिष्ठान [मनोहर सिंह द्वारा भेंट]</desc>
 			</entry>
 			<entry id="3076" type="" size="8X12.5">
@@ -29520,7 +29520,7 @@
 			<entry id="10248" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10248/1" type="" size="">
+			<entry id="10248-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -40917,7 +40917,7 @@
 			<entry id="10257" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10257/1" type="" size="">
+			<entry id="10257-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -46926,7 +46926,7 @@
 			<entry id="9617" type="01" size="">
 				<desc>फोटोग्राफ नटरंग प्रतिष्ठान; कार्यालय व कार्यकर्ता क्रियाकलाप संवादित में</desc>
 			</entry>
-			<entry id="9617/1" type="02" size="">
+			<entry id="9617-1" type="02" size=">
 				<desc>फोटोग्राफ नटरंग प्रतिष्ठान; कार्यालय व कार्यकर्ता क्रियाकलाप संवादित में</desc>
 			</entry>
 			<entry id="9641" type="02" size="">
@@ -46961,7 +46961,7 @@
 			<entry id="9652" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9652/1" type="" size="">
+			<entry id="9652-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -47057,7 +47057,7 @@
 				<desc>सूर्य यात्रा के दौरान नेमि जी, 1998</desc>
 				<misc>पद्मश्री से समानित होने के बाद, जून, 2003</misc>
 			</entry>
-			<entry id="9642/1" type="" size="">
+			<entry id="9642-1" type="" size=">
 				<desc>सूर्य यात्रा के दौरान नेमि जी, 1998</desc>
 				<misc>पद्मश्री से समानित होने के बाद, जून, 2003</misc>
 			</entry>
@@ -47069,7 +47069,7 @@
 				<desc>सूर्य यात्रा के दौरान नेमि जी, 1998</desc>
 				<misc>पद्मश्री से समानित होने के बाद, जून, 2003</misc>
 			</entry>
-			<entry id="9609/1" type="" size="">
+			<entry id="9609-1" type="" size=">
 				<desc>सूर्य यात्रा के दौरान नेमि जी, 1998</desc>
 				<misc>पद्मश्री से समानित होने के बाद, जून, 2003</misc>
 			</entry>
@@ -48756,7 +48756,7 @@
 			<entry id="9749" type="02" size="">
 				<desc>अभिनेता</desc>
 			</entry>
-			<entry id="9749/1" type="02" size="">
+			<entry id="9749-1" type="02" size=">
 				<desc>अभिनेता</desc>
 			</entry>
 		</photo>
@@ -51989,7 +51989,7 @@
 			<entry id="7973" type="" size="">
 				<desc>प्रथम प्रस्तुति : 1957, कोचिदूल हॉल, लखनऊ</desc>
 			</entry>
-			<entry id="7973/1" type="" size="">
+			<entry id="7973-1" type="" size=">
 				<desc>प्रथम प्रस्तुति : 1957, कोचिदूल हॉल, लखनऊ</desc>
 			</entry>
 		</photo>
@@ -56634,10 +56634,10 @@
 			<entry id="4001" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3971/1" type="" size="">
+			<entry id="3971-1" type="" size=">
 				<desc></desc>
 			</entry>
-			<entry id="3980/1" type="" size="">
+			<entry id="3980-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -57149,7 +57149,7 @@
 			<entry id="3508" type="" size="">
 				<desc>शांता गांधी द्वारा भेंट</desc>
 			</entry>
-			<entry id="3409/1" type="" size="">
+			<entry id="3409-1" type="" size=">
 				<desc>शांता गांधी द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -59748,7 +59748,7 @@
 			<entry id="2423" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2422/1/2" type="" size="">
+			<entry id="2422-1/2" type="" size=">
 				<desc></desc>
 			</entry>
 			<entry id="2500" type="" size="">
@@ -60731,7 +60731,7 @@
 			<entry id="2501" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2845/1" type="" size="">
+			<entry id="2845-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -60937,10 +60937,10 @@
 			<entry id="2439" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2448/3" type="" size="">
+			<entry id="2448-3" type="" size=">
 				<desc></desc>
 			</entry>
-			<entry id="3096/1" type="" size="">
+			<entry id="3096-1" type="" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -60960,13 +60960,13 @@
 			<entry id="3097" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3097/1" type="02" size="">
+			<entry id="3097-1" type="02" size=">
 				<desc></desc>
 			</entry>
 			<entry id="2443" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2443/1/11" type="02" size="">
+			<entry id="2443-1" type="02" size=">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -61915,7 +61915,7 @@
 			<entry id="2487" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="3123/1" type="" size="">
+			<entry id="3123-1" type="" size=">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -62079,7 +62079,7 @@
 			<entry id="1851" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="2466/1" type="" size="">
+			<entry id="2466-1" type="" size=">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 			<entry id="2502" type="" size="">
@@ -62398,7 +62398,7 @@
 			<entry id="3090" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="2446/1/11" type="" size="">
+			<entry id="2446-1" type="" size=">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -62765,7 +62765,7 @@
 			<entry id="2446" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2446/1" type="" size="">
+			<entry id="2446-1" type="" size=">
 				<desc></desc>
 			</entry>
 			<entry id="2476" type="" size="">
